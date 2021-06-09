@@ -33,22 +33,22 @@ public class Test {
     private int y = 1;
 
     @Test
-    public void testAdd() {
+    public void testadd() {
         assertEquals(calc.add(x, y), 2);
     }
 
     @Test
-    public void testMinus() {
-        assertEquals(calc.minus(x, y), 0);
+    public void testsubtract() {
+        assertEquals(calc.substract(x, y), 0);
     }
 
     @Test
-    public void testMultiply() {
+    public void testmultiply() {
         assertEquals(calc.multiply(x, y), 1);
     }
 
     @Test
-    public void testDivide() {
+    public void testdivide() {
         assertEquals(calc.divide(x, y), 1);
     }
 }
