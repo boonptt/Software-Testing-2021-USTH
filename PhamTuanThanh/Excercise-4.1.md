@@ -1,6 +1,6 @@
 # Calc.java
 ```Java
-package com.company;
+package com.Company;
 
 public class Calc {
     static public int add(int x, int y) {
