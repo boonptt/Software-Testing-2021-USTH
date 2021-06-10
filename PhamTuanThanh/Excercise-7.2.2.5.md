@@ -11,7 +11,7 @@ Also consider the following (candidate) test paths:
 - p2 = [1, 2, 3, 2, 4, 6, 1, 7]
 - p3 = [1, 2, 3, 2, 4, 5, 6, 1, 7]
 
-**a,Draw the graph**
+**a,Draw the graph**<br>
 !["Image"](Image 7.2.2.5.png)
 
 **b,List the test requirements for Edge-Pair Coverage:**<br>
