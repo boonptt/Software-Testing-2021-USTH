@@ -3,5 +3,5 @@
 ```
 The predicate describing whether to list a given mouse is:
 ((mouseType = wireless) ^ ((retail > 100) v (stock > 20))) v
-((mouseType = wireless) ^ (retail > 50))
+(-(mouseType = wireless) ^ (retail > 50))
 ```
