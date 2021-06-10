@@ -1,5 +1,5 @@
 # Answer the following questions:
-["Image"](Image 6.1.3.png)
+![image](https://user-images.githubusercontent.com/74814233/121517449-93f17480-ca19-11eb-97e1-e05ac6fc840a.png)
 ```
 a. “Location of element in list” fails the disjointness property. Give an example that illustrates this:
     If the element is first entry in list, Block 1 and Block 2 will be jointed.
