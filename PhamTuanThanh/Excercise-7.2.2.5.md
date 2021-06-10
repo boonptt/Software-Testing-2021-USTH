@@ -11,9 +11,9 @@ Also consider the following (candidate) test paths:
 - p2 = [1, 2, 3, 2, 4, 6, 1, 7]
 - p3 = [1, 2, 3, 2, 4, 5, 6, 1, 7]
 
-**a,Draw the graph**<br>
-!["Image"] (Image 7.2.2.5.png)
-
+**a,Draw the graph.**
+!["Image"](Image 7.2.2.5.png)
+```
 **b,List the test requirements for Edge-Pair Coverage:**<br>
 The Edge-Pair Coverage are: [1, 2, 3], [1, 2, 4], [2, 3, 2], [2, 4, 5], [2, 4, 6], [3, 2, 3], [3, 2, 4], [4, 5, 6], [4, 6, 1], [5, 6, 1], [6, 1, 2], [6, 1, 7]
 
@@ -34,4 +34,5 @@ The path that achieve Edge Coverage but not Prime Path Coverage on the path are:
 
 **e,List the test requirements for Node Coverage, Edge Coverage, and Prime Path Coverage on the graph.**<br>
 Node coverage: TR = {1,2,3,4,5,6,7}
+```
 
